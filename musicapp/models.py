@@ -6,7 +6,7 @@ from django.contrib.auth.models import User
 class Song(models.Model):
 
     Language_Choice = (
-              ('Hindi', 'Hindi'),
+              ('Russian', 'Russian'),
               ('English', 'English'),
           )
 
